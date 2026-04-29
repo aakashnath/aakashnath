@@ -1,38 +1,49 @@
-# Hi 👋, I'm Aakash Nath
+<h2 align="center">Hi 👋, I'm Aakash Nath</h2>
+<h3 align="center">💻 Frontend Developer (Fresher)</h3>
 
-## 💻 Frontend Developer (Fresher)
-Passionate about building clean and creative user interfaces.  
-Currently learning and improving through practical projects.
+<p align="center">
+Passionate about building clean and creative user interfaces and improving skills step by step.
+</p>
 
 ---
 
-## 🚀 What I'm Doing
-- Building beginner frontend projects  
-- Improving problem-solving skills  
-- Learning step by step  
+## 🌐 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/aakashnath2003" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
 
 ---
 
 ## 🛠️ Skills
-- HTML, CSS, Basic JavaScript  
-- Git, VS Code  
+
+### 💻 Frontend
+<p>
+<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+</p>
+
+### ⚙️ Tools
+<p>
+<img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode"/>
+</p>
 
 ---
 
 ## 📂 Projects
-- Student Management System  
-- Basic Calculator  
-- Simple Web Pages  
-
----
-
-## 📫 Connect With Me
-- 🔗 LinkedIn: [Aakash Nath](https://www.linkedin.com/in/aakashnath2003)
-- 📍 Location: Kolkata, India  
+- 🔹 Basic Calculator  
+- 🔹 Simple Web Pages  
+- 🔹 More coming soon...
 
 ---
 
 ## ⚡ About Me
-- I enjoy creative design  
-- Focused on learning  
-- Open to opportunities
+- Creative design ideas  
+- Learning consistently  
+- Focused on frontend development  
+- Open to opportunities  
+
+---
