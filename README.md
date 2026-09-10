@@ -1,49 +1,42 @@
 <h1 align="center">Hi 👋, I'm Aakash Nath</h1>
 
-<h3 align="center">
-Aspiring Data Analyst • Frontend Developer • AI & Generative AI Enthusiast
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+AI+Agents+%F0%9F%A4%96;Exploring+Generative+AI+%E2%9C%A8;Turning+Data+into+Insights+%F0%9F%93%8A;Creating+Clean+Web+Experiences+%F0%9F%92%BB;Learning+%26+Building+Every+Day+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=650&lines=Building+AI+Agents+%7C+Exploring+Generative+AI;Aspiring+Data+Analyst+%7C+Python+Developer;Turning+Data+into+Insights+%7C+Building+Projects;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aakashnath&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <strong>💻 Aspiring Data Analyst | 🐍 Python Developer | 🤖 Generative AI Explorer</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AakashNath2003&label=Profile%20Views&color=3776AB&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Information Technology student
-- 💻 Interested in Frontend Development, Data Analytics & Artificial Intelligence
-- 🤖 Currently exploring Generative AI and AI Agents
-- 📊 Building practical projects using Python, SQL, Excel and Power BI
-- 🌐 Developing responsive and user-friendly web interfaces
-- 🧠 Improving my problem-solving and technical skills through projects
-- 🚀 Focused on learning by building real-world applications
-- 💼 Open to Fresher / Entry-Level opportunities
+- 🎓 Final-year **B.Tech Information Technology** student at GCELT, Kolkata.
+- 📊 Building my career around **Data Analytics, Python and Generative AI**.
+- 🤖 Currently exploring and building **AI Agents and LLM-based applications**.
+- 🐍 Comfortable working with **Python, Pandas and NumPy** for data-related tasks.
+- 📈 Working with **Microsoft Excel, Power BI and SQL** for data analysis and visualization.
+- 🧠 Exploring **Generative AI, LLMs, Google Gemini and OpenAI**.
+- 🔗 Learning how **LangChain** can be used to build practical AI applications.
+- ⚡ Have hands-on experience with **Streamlit and FastAPI**.
+- 🚀 I believe in learning by building practical projects instead of only following tutorials.
+- 🎯 Currently focused on improving my technical skills and becoming industry-ready.
 
 ---
 
-## 🚀 What I'm Currently Exploring
+## 🧭 Current Focus
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Building%20AI%20Agents-111827?style=for-the-badge&logo=robotframework&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Data%20Analytics-0F766E?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python%20%26%20Pandas-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL%20%26%20DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power%20BI%20%26%20Excel-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Frontend%20Development-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-Exploring-181717?style=for-the-badge&logo=robot&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative%20AI-Learning-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Analytics-Building-217346?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Developing-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </p>
 
@@ -51,207 +44,121 @@ Aspiring Data Analyst • Frontend Developer • AI & Generative AI Enthusiast
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 📊 Data Analytics
 
 <p align="left">
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
-</a>
-
-<a href="https://www.java.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=java" height="50" alt="Java"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-<img src="https://skillicons.dev/icons?i=c" height="50" alt="C"/>
-</a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30" alt="Microsoft Excel"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="SQL"/>
 </p>
+
+**Python • Pandas • NumPy • Microsoft Excel • Power BI • SQL**
+
+---
+
+### 🤖 Generative AI & LLM
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+</p>
+
+**Generative AI • Google Gemini • OpenAI • LangChain • LLM Applications**
+
+---
+
+### ⚙️ AI / Application Engineering
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
+
+**Streamlit • FastAPI • AI Application Development**
+
+---
 
 ### 🌐 Frontend Development
 
 <p align="left">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript"/>
-</a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
 </p>
 
-### 📊 Data Analytics
+**HTML5 • CSS3 • JavaScript**
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-
-</p>
-
-### 🤖 AI & Generative AI
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
-
-<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=robotframework&logoColor=white" alt="AI Agents"/>
-
-<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/>
-
-</p>
-
-### 🐍 Python Ecosystem
-
-<p align="left">
-
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=pandas" height="50" alt="Pandas"/>
-</a>
-
-<a href="https://streamlit.io/" target="_blank">
-<img src="https://skillicons.dev/icons?i=streamlit" height="50" alt="Streamlit"/>
-</a>
-
-</p>
+---
 
 ### 🗄️ Database
 
 <p align="left">
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/>
-</a>
-
-<a href="https://www.sqlite.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="SQLite"/>
-</a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL"/>
 </p>
 
-### ⚙️ Tools & Platforms
+**MySQL**
+
+---
+
+### 🔧 Tools & Platforms
 
 <p align="left">
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code"/>
-</a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code"/>
 </p>
+
+**Git • GitHub • VS Code**
 
 ---
 
 ## 📂 Featured Projects
 
-### 💰 Expense Tracker
+<table>
+<tr>
+<th>Project</th>
+<th>Technology</th>
+<th>Description</th>
+</tr>
 
-A web-based expense management application built using:
+<tr>
+<td><b>📊 Netflix Content Analysis</b></td>
+<td>Power BI • Excel</td>
+<td>Interactive dashboard analysing Netflix movies and TV shows, including genres, countries, ratings and release trends.</td>
+</tr>
 
-**Python • Flask • SQLite • HTML • CSS • JavaScript**
+<tr>
+<td><b>🚗 Road Accident Analysis</b></td>
+<td>Power BI • Excel</td>
+<td>Data visualization project focused on accident patterns, trends and key analytical insights.</td>
+</tr>
 
-#### Key Features
+<tr>
+<td><b>📱 Mobile Shop Dashboard</b></td>
+<td>Python • Streamlit</td>
+<td>Interactive mobile shop application with product management, CRUD operations and dashboard-based interaction.</td>
+</tr>
 
-- Add and manage expenses
-- Track spending
-- Store expense data using SQLite
-- Web-based user interface
-- Organized project structure
+<tr>
+<td><b>🤖 Generative AI Projects</b></td>
+<td>Python • Gemini • OpenAI</td>
+<td>Exploring practical LLM applications and AI-powered solutions while building hands-on projects.</td>
+</tr>
 
-🔗 Repository:
-
-https://github.com/aakashnath/expense-tracker
-
----
-
-### 🤖 Product Management System with Groq AI
-
-An AI-powered Product Management System built using Python, Gradio and Groq AI.
-
-#### Key Features
-
-- Product management
-- CRUD operations
-- AI integration
-- Interactive user interface
-- Python-based application
-
-**Technologies:**
-
-`Python` `Gradio` `Groq AI`
-
-🔗 Repository:
-
-https://github.com/aakashnath/Product-Management-System-with-Groq-AI
+</table>
 
 ---
 
-### 🍽️ Cloud Kitchen Food Delivery Management System
-
-A MySQL-based Cloud Kitchen Food Delivery Management System with an interactive analytics dashboard.
-
-#### Key Features
-
-- Food delivery management
-- MySQL database
-- SQL queries
-- Data analysis
-- Interactive dashboard
-
-**Technologies:**
-
-`MySQL` `Python` `SQL` `Dashboard` `Analytics`
-
-🔗 Repository:
-
-https://github.com/aakashnath/cloud-kitchen-food-delivery-management-system
-
----
-
-### 🎬 Netflix Content Analysis Dashboard
-
-An interactive Power BI dashboard created using the Netflix Movies & TV Shows dataset.
-
-#### Analysis Includes
-
-- 🎬 Movies vs TV Shows
-- 🌍 Country-wise content analysis
-- 🎭 Genre analysis
-- ⭐ Rating analysis
-- 📅 Release year trends
-- 📊 Content distribution
-
-**Tools:**
-
-`Power BI` `Excel` `Data Analytics`
-
----
-
-## 📊 GitHub Analytics
+## 📈 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aakashnath&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashnath&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=AakashNath2003&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashNath2003&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
 </p>
 
 ---
@@ -259,9 +166,7 @@ An interactive Power BI dashboard created using the Netflix Movies & TV Shows da
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=aakashnath&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
+  <img src="https://streak-stats.demolab.com?user=AakashNath2003&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -269,19 +174,15 @@ An interactive Power BI dashboard created using the Netflix Movies & TV Shows da
 ## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/aakashnath/aakashnath/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
+  <img src="https://raw.githubusercontent.com/AakashNath2003/AakashNath2003/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 📊 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashnath&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AakashNath2003&hide_border=true&area=true" alt="Contribution Activity Graph"/>
 </p>
 
 ---
@@ -289,58 +190,44 @@ An interactive Power BI dashboard created using the Netflix Movies & TV Shows da
 ## 🌐 Connect With Me
 
 <p align="left">
-
-<a href="https://github.com/aakashnath" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aakashnath2003" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/aakashnath2003" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:aakashnath2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/AakashNath2003" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 📬 How to Reach Me
 
-<p align="center">
+- 💼 **LinkedIn:** [linkedin.com/in/aakashnath2003](https://www.linkedin.com/in/aakashnath2003)
+- 📧 **Email:** aakashnath2003@gmail.com
+- 🐙 **GitHub:** [github.com/AakashNath2003](https://github.com/AakashNath2003)
 
-<img src="https://img.shields.io/badge/AI%20Agents-Exploring-111827?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Generative%20AI-Learning-412991?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Analytics-Building-0F766E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SQL-Improving-4479A1?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power%20BI-Practicing-F2C811?style=for-the-badge"/>
-
-</p>
+I'm open to connecting with fellow developers, data enthusiasts and people working on interesting technology projects.
 
 ---
 
-## 💡 My Goal
+## 🚀 What I'm Learning Next
 
-<p align="center">
-
-<b>
-Build strong fundamentals, create meaningful real-world projects,
-and become industry-ready for my first professional opportunity.
-</b>
-
-</p>
-
----
-
-<p align="center">
-
-### 💻 Learn • Build • Analyze • Create • Repeat 🚀
-
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
-
-</p>
+```text
+Data Analytics
+     ↓
+Advanced SQL
+     ↓
+Python + Pandas
+     ↓
+Power BI + DAX
+     ↓
+Generative AI
+     ↓
+LLM Applications
+     ↓
+AI Agents
+     ↓
+Real-World AI Projects
