@@ -19,14 +19,14 @@ jobs:
 
     steps:
       - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
-          github_user_name: AakashNath2003
+          github_user_name: aakashnath
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=%23161b22,%2330363d,%236e7681,%23aab0b6,%23d0d7de
 
-      - name: Push Snake to Output Branch
+      - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
