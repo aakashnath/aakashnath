@@ -11,7 +11,9 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
+
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=27&pause=900&color=FF8C00&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Python+Developer;Generative+AI+Explorer;Turning+Data+into+Insights;Building+Practical+Projects;Always+Learning%2C+Always+Building+%F0%9F%9A%80"/>
+
 </a>
 
 </div>
@@ -49,7 +51,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B0000,45:CC3300,75:FF7A00,100:FFB703&height=135&section=header&text=About%20Me&fontSize=40&fontColor=ffffff&fontAlignY=58&animation=scaleIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:7F0000,45:FF4500,75:FF8C00,100:FFD166&text=About%20Me&fontSize=40&fontColor=ffffff&fontAlignY=45&animation=fadeIn"/>
 
 </div>
 
@@ -87,13 +89,14 @@
 
 </div>
 
+
 <!-- ========================================================= -->
 <!--                     CURRENT FOCUS                          -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B0000,45:CC3300,75:FF7A00,100:FFB703&height=135&section=header&text=CURRENT%20FOCUS&fontSize=40&fontColor=ffffff&fontAlignY=58&animation=scaleIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:7F0000,45:FF4500,75:FF8C00,100:FFD166&text=Current%20Focus&fontSize=40&fontColor=ffffff&fontAlignY=45&animation=fadeIn"/>
 
 </div>
 
@@ -122,7 +125,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B0000,45:CC3300,75:FF7A00,100:FFB703&height=135&section=header&text=TECH%20STACK&fontSize=40&fontColor=ffffff&fontAlignY=58&animation=scaleIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:7F0000,45:FF4500,75:FF8C00,100:FFD166&text=Tech%20Stack&fontSize=40&fontColor=ffffff&fontAlignY=45&animation=fadeIn"/>
 
 </div>
 
@@ -231,7 +234,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B0000,45:CC3300,75:FF7A00,100:FFB703&height=135&section=header&text=GitHub%20Analytics%20Dashboard&fontSize=34&fontColor=ffffff&fontAlignY=58&animation=scaleIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:7F0000,45:FF4500,75:FF8C00,100:FFD166&text=GitHub%20Analytics%20Dashboard&fontSize=36&fontColor=ffffff&fontAlignY=45&animation=fadeIn"/>
 
 </div>
 
@@ -286,7 +289,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B0000,45:CC3300,75:FF7A00,100:FFB703&height=135&section=header&text=Featured%20Projects&fontSize=40&fontColor=ffffff&fontAlignY=58&animation=scaleIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:7F0000,45:FF4500,75:FF8C00,100:FFD166&text=Featured%20Projects&fontSize=40&fontColor=ffffff&fontAlignY=45&animation=fadeIn"/>
 
 </div>
 
@@ -416,7 +419,7 @@ OpenAI and LLM technologies.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B0000,45:CC3300,75:FF7A00,100:FFB703&height=135&section=header&text=Contribution%20Snake&fontSize=40&fontColor=ffffff&fontAlignY=58&animation=scaleIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:7F0000,45:FF4500,75:FF8C00,100:FFD166&text=Contribution%20Snake&fontSize=40&fontColor=ffffff&fontAlignY=45&animation=fadeIn"/>
 
 </div>
 
@@ -449,7 +452,7 @@ src="https://raw.githubusercontent.com/aakashnath/aakashnath/output/github-contr
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B0000,45:CC3300,75:FF7A00,100:FFB703&height=135&section=header&text=Connect%20With%20Me&fontSize=40&fontColor=ffffff&fontAlignY=58&animation=scaleIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:7F0000,45:FF4500,75:FF8C00,100:FFD166&text=Connect%20With%20Me&fontSize=40&fontColor=ffffff&fontAlignY=45&animation=fadeIn"/>
 
 </div>
 
@@ -488,7 +491,7 @@ Open to collaborating on interesting data and technology projects.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B0000,45:CC3300,75:FF7A00,100:FFB703&height=135&section=header&text=What%20I'm%20Learning%20Next&fontSize=34&fontColor=ffffff&fontAlignY=58&animation=scaleIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:7F0000,45:FF4500,75:FF8C00,100:FFD166&text=What%20I'm%20Learning%20Next&fontSize=36&fontColor=ffffff&fontAlignY=45&animation=fadeIn"/>
 
 </div>
 
@@ -547,6 +550,6 @@ Open to collaborating on interesting data and technology projects.
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,45:FF4500,75:FF8C00,100:FFD166&height=170&section=footer&text=Thanks%20for%20Visiting!&fontSize=34&fontColor=ffffff&fontAlignY=58&animation=twinkling"/>
+src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,45:FF4500,75:FF8C00,100:FFD166&height=170&section=footer&text=Thanks%20for%20Visiting!&fontSize=34&fontColor=ffffff&fontAlignY=45&animation=fadeIn"/>
 
 </div>
