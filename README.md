@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8B0000,45:FF4500,75:FF8C00,100:FFD166&text=Aakash%20Nath&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F0000,45:FF4500,75:FF8C00,100:FFD166&text=Aakash%20Nath&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
 </div>
 
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,50:FF4500,100:FFB703&height=100&section=header&text=About%20Me&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B0000,45:CC3300,75:FF7A00,100:FFB703&height=135&section=header&text=About%20Me&fontSize=40&fontColor=ffffff&fontAlignY=58&animation=scaleIn"/>
 
 </div>
 
@@ -57,21 +57,25 @@
 
 <div align="center">
 
-• B.Tech Information Technology Graduate from GCELT, Kolkata
+<font size="4">
+
+• <b>B.Tech Information Technology Graduate</b> from <b>GCELT, Kolkata</b>
 <br>
-• Building a career in Data Analytics, Python and Generative AI
+• Building a career in <b>Data Analytics, Python and Generative AI</b>
 <br>
-• Working with Python, Pandas and NumPy for data analysis
+• Working with <b>Python, Pandas and NumPy</b> for data analysis
 <br>
-• Working with Excel, Power BI, DAX and SQL for analytics and visualization
+• Working with <b>Excel, Power BI, DAX and SQL</b> for analytics and visualization
 <br>
-• Exploring Generative AI, LLM applications, Google Gemini and OpenAI
+• Exploring <b>Generative AI, LLM applications, Google Gemini and OpenAI</b>
 <br>
-• Learning AI Agents and practical LLM application development
+• Learning <b>AI Agents</b> and practical <b>LLM application development</b>
 <br>
-• Hands-on experience with Streamlit and FastAPI
+• Hands-on experience with <b>Streamlit and FastAPI</b>
 <br>
-• Building practical projects to solve real-world problems
+• Building <b>practical projects</b> to solve <b>real-world problems</b>
+
+</font>
 
 </div>
 
@@ -83,14 +87,13 @@
 
 </div>
 
-
 <!-- ========================================================= -->
 <!--                     CURRENT FOCUS                          -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,50:FF4500,100:FFB703&height=100&section=header&text=CURRENT%20FOCUS&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B0000,45:CC3300,75:FF7A00,100:FFB703&height=135&section=header&text=CURRENT%20FOCUS&fontSize=40&fontColor=ffffff&fontAlignY=58&animation=scaleIn"/>
 
 </div>
 
@@ -119,7 +122,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,50:FF4500,100:FFB703&height=100&section=header&text=TECH%20STACK&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B0000,45:CC3300,75:FF7A00,100:FFB703&height=135&section=header&text=TECH%20STACK&fontSize=40&fontColor=ffffff&fontAlignY=58&animation=scaleIn"/>
 
 </div>
 
@@ -228,7 +231,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,50:FF4500,100:FFB703&height=100&section=header&text=GitHub%20Analytics%20Dashboard&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B0000,45:CC3300,75:FF7A00,100:FFB703&height=135&section=header&text=GitHub%20Analytics%20Dashboard&fontSize=34&fontColor=ffffff&fontAlignY=58&animation=scaleIn"/>
 
 </div>
 
@@ -283,7 +286,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,50:FF4500,100:FFB703&height=100&section=header&text=Featured%20Projects&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B0000,45:CC3300,75:FF7A00,100:FFB703&height=135&section=header&text=Featured%20Projects&fontSize=40&fontColor=ffffff&fontAlignY=58&animation=scaleIn"/>
 
 </div>
 
@@ -413,7 +416,7 @@ OpenAI and LLM technologies.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,50:FF4500,100:FFB703&height=100&section=header&text=Contribution%20Snake&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B0000,45:CC3300,75:FF7A00,100:FFB703&height=135&section=header&text=Contribution%20Snake&fontSize=40&fontColor=ffffff&fontAlignY=58&animation=scaleIn"/>
 
 </div>
 
@@ -446,7 +449,7 @@ src="https://raw.githubusercontent.com/aakashnath/aakashnath/output/github-contr
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,50:FF4500,100:FFB703&height=100&section=header&text=Connect%20With%20Me&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B0000,45:CC3300,75:FF7A00,100:FFB703&height=135&section=header&text=Connect%20With%20Me&fontSize=40&fontColor=ffffff&fontAlignY=58&animation=scaleIn"/>
 
 </div>
 
@@ -455,21 +458,15 @@ src="https://raw.githubusercontent.com/aakashnath/aakashnath/output/github-contr
 <p align="center">
 
 <a href="https://www.linkedin.com/in/aakashnath2003">
-
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 <a href="mailto:aakashnath2003@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 <a href="https://github.com/aakashnath">
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 </p>
@@ -491,7 +488,7 @@ Open to collaborating on interesting data and technology projects.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,50:FF4500,100:FFB703&height=100&section=header&text=What%20I'm%20Learning%20Next&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B0000,45:CC3300,75:FF7A00,100:FFB703&height=135&section=header&text=What%20I'm%20Learning%20Next&fontSize=34&fontColor=ffffff&fontAlignY=58&animation=scaleIn"/>
 
 </div>
 
@@ -550,6 +547,6 @@ Open to collaborating on interesting data and technology projects.
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,45:FF4500,75:FF8C00,100:FFD166&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,45:FF4500,75:FF8C00,100:FFD166&height=170&section=footer&text=Thanks%20for%20Visiting!&fontSize=34&fontColor=ffffff&fontAlignY=58&animation=twinkling"/>
 
 </div>
