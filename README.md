@@ -11,9 +11,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=27&pause=900&color=FF8C00&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Python+Developer;Generative+AI+Explorer;Turning+Data+into+Insights;Building+Practical+Projects;Always+Learning%2C+Always+Building+%F0%9F%9A%80"/>
-
 </a>
 
 </div>
@@ -46,37 +44,12 @@
 
 
 <!-- ========================================================= -->
-<!--                     ANIMATED DIVIDER                       -->
-<!-- ========================================================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,20,24,30"/>
-
-
-<!-- ========================================================= -->
 <!--                       ABOUT ME                             -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,50:FF4500,100:FFB703&height=105&section=header&text=About%20Me&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
-
-<br>
-
-🎓 B.Tech Information Technology Graduate | GCELT, Kolkata
-<br>
-📊 Building my career in Data Analytics, Python and Generative AI
-<br>
-🐍 Working with Python, Pandas and NumPy for data analysis
-<br>
-📈 Working with Excel, Power BI, DAX and SQL for analytics and visualization
-<br>
-🤖 Exploring Generative AI, LLM applications, Google Gemini and OpenAI
-<br>
-🔗 Learning AI Agents and practical LLM application development
-<br>
-⚙️ Hands-on experience with Streamlit and FastAPI
-<br>
-🚀 Learning by building practical projects and solving real-world problems
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,50:FF4500,100:FFB703&height=100&section=header&text=About%20Me&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
@@ -84,18 +57,44 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB703,50:FF6B35,100:8B0000&height=60&section=footer"/>
+• B.Tech Information Technology Graduate from GCELT, Kolkata
+<br>
+• Building a career in Data Analytics, Python and Generative AI
+<br>
+• Working with Python, Pandas and NumPy for data analysis
+<br>
+• Working with Excel, Power BI, DAX and SQL for analytics and visualization
+<br>
+• Exploring Generative AI, LLM applications, Google Gemini and OpenAI
+<br>
+• Learning AI Agents and practical LLM application development
+<br>
+• Hands-on experience with Streamlit and FastAPI
+<br>
+• Building practical projects to solve real-world problems
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB703,50:FF6B35,100:8B0000&height=55&section=footer"/>
 
 </div>
 
 
 <!-- ========================================================= -->
-<!--                      CURRENT FOCUS                         -->
+<!--                     CURRENT FOCUS                          -->
 <!-- ========================================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,20,24,30"/>
+<div align="center">
 
-<h2 align="center">🔥 CURRENT FOCUS</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,50:FF4500,100:FFB703&height=100&section=header&text=CURRENT%20FOCUS&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -115,12 +114,16 @@
 
 
 <!-- ========================================================= -->
-<!--                      TECH STACK                            -->
+<!--                       TECH STACK                           -->
 <!-- ========================================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,20,24,30"/>
+<div align="center">
 
-<h2 align="center">🛠️ TECH STACK</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,50:FF4500,100:FFB703&height=100&section=header&text=TECH%20STACK&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+<br>
 
 <table align="center">
 
@@ -128,7 +131,7 @@
 
 <td align="center" width="33%">
 
-<h3>📊 DATA ANALYTICS</h3>
+<h3>DATA ANALYTICS</h3>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -146,10 +149,9 @@
 
 </td>
 
-
 <td align="center" width="33%">
 
-<h3>🤖 GENERATIVE AI</h3>
+<h3>GENERATIVE AI</h3>
 
 <img src="https://img.shields.io/badge/Generative%20AI-FF6B35?style=for-the-badge&logo=google&logoColor=white"/>
 
@@ -165,10 +167,9 @@
 
 </td>
 
-
 <td align="center" width="33%">
 
-<h3>⚙️ APPLICATION DEVELOPMENT</h3>
+<h3>APPLICATION DEVELOPMENT</h3>
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
@@ -180,12 +181,11 @@
 
 </tr>
 
-
 <tr>
 
 <td align="center">
 
-<h3>🌐 FRONTEND</h3>
+<h3>FRONTEND</h3>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
@@ -195,10 +195,9 @@
 
 </td>
 
-
 <td align="center">
 
-<h3>🗄️ DATABASE</h3>
+<h3>DATABASE</h3>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
@@ -206,10 +205,9 @@
 
 </td>
 
-
 <td align="center">
 
-<h3>🔧 TOOLS & PLATFORMS</h3>
+<h3>TOOLS & PLATFORMS</h3>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
@@ -228,9 +226,13 @@
 <!--                  GITHUB ANALYTICS                          -->
 <!-- ========================================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,20,24,30"/>
+<div align="center">
 
-# 📊 GitHub Analytics Dashboard
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,50:FF4500,100:FFB703&height=100&section=header&text=GitHub%20Analytics%20Dashboard&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+<br>
 
 <table>
 
@@ -250,7 +252,6 @@
 
 </tr>
 
-
 <tr>
 
 <td width="50%" align="center">
@@ -269,7 +270,6 @@
 
 </table>
 
-
 <p align="center">
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakashnath&theme=gruvbox"/>
@@ -281,9 +281,13 @@
 <!--                   FEATURED PROJECTS                        -->
 <!-- ========================================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,20,24,30"/>
+<div align="center">
 
-# 🚀 Featured Projects
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,50:FF4500,100:FFB703&height=100&section=header&text=Featured%20Projects&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+<br>
 
 <table align="center">
 
@@ -295,10 +299,9 @@
 
 </tr>
 
-
 <tr>
 
-<td><b>📺 Netflix Content Analysis</b></td>
+<td><b>Netflix Content Analysis</b></td>
 
 <td>
 Interactive Power BI dashboard analysing Netflix movies and TV shows,
@@ -317,10 +320,9 @@ including genres, countries, ratings and content trends.
 
 </tr>
 
-
 <tr>
 
-<td><b>🧮 Student Calculator</b></td>
+<td><b>Student Calculator</b></td>
 
 <td>
 Responsive calculator built with HTML, CSS and JavaScript,
@@ -339,10 +341,9 @@ featuring DOM manipulation, event handling and keyboard controls.
 
 </tr>
 
-
 <tr>
 
-<td><b>💰 Expense Tracker</b></td>
+<td><b>Expense Tracker</b></td>
 
 <td>
 Web-based expense tracking application built with Python Flask,
@@ -361,10 +362,9 @@ HTML, CSS and JavaScript for managing personal expenses.
 
 </tr>
 
-
 <tr>
 
-<td><b>📱 Mobile Shop Dashboard</b></td>
+<td><b>Mobile Shop Dashboard</b></td>
 
 <td>
 Interactive mobile shop management application built with Python
@@ -383,10 +383,9 @@ and Streamlit, featuring product management and CRUD operations.
 
 </tr>
 
-
 <tr>
 
-<td><b>🤖 Generative AI Projects</b></td>
+<td><b>Generative AI Projects</b></td>
 
 <td>
 Practical experiments and applications using Python, Gemini,
@@ -412,9 +411,13 @@ OpenAI and LLM technologies.
 <!--                  CONTRIBUTION SNAKE                        -->
 <!-- ========================================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,20,24,30"/>
+<div align="center">
 
-# 🐍 Contribution Snake
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,50:FF4500,100:FFB703&height=100&section=header&text=Contribution%20Snake&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+<br>
 
 <p align="center">
 
@@ -441,9 +444,13 @@ src="https://raw.githubusercontent.com/aakashnath/aakashnath/output/github-contr
 <!--                    CONNECT WITH ME                         -->
 <!-- ========================================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,20,24,30"/>
+<div align="center">
 
-# 🌐 Connect With Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,50:FF4500,100:FFB703&height=100&section=header&text=Connect%20With%20Me&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+<br>
 
 <p align="center">
 
@@ -469,11 +476,11 @@ src="https://raw.githubusercontent.com/aakashnath/aakashnath/output/github-contr
 
 <div align="center">
 
-💼 Open to Data Analyst, Python and AI-focused opportunities.
+Open to Data Analyst, Python and AI-focused opportunities.
 <br>
-📊 Interested in Data Analytics, Business Intelligence and practical AI applications.
+Interested in Data Analytics, Business Intelligence and practical AI applications.
 <br>
-🤝 Open to collaborating on interesting data and technology projects.
+Open to collaborating on interesting data and technology projects.
 
 </div>
 
@@ -482,9 +489,13 @@ src="https://raw.githubusercontent.com/aakashnath/aakashnath/output/github-contr
 <!--                     LEARNING NEXT                          -->
 <!-- ========================================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,20,24,30"/>
+<div align="center">
 
-# 🚀 What I'm Learning Next
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,50:FF4500,100:FFB703&height=100&section=header&text=What%20I'm%20Learning%20Next&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -506,25 +517,25 @@ src="https://raw.githubusercontent.com/aakashnath/aakashnath/output/github-contr
 ⬇️
 <br>
 
-<img src="https://img.shields.io/badge/Statistics-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistics-9B59B6?style=for-the-badge"/>
 
 <br>
 ⬇️
 <br>
 
-<img src="https://img.shields.io/badge/Generative%20AI-FF4500?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-E74C3C?style=for-the-badge"/>
 
 <br>
 ⬇️
 <br>
 
-<img src="https://img.shields.io/badge/LLM%20Applications-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Applications-16A085?style=for-the-badge"/>
 
 <br>
 ⬇️
 <br>
 
-<img src="https://img.shields.io/badge/AI%20Agents-7F0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-34495E?style=for-the-badge"/>
 
 </div>
 
@@ -538,6 +549,7 @@ src="https://raw.githubusercontent.com/aakashnath/aakashnath/output/github-contr
 <div align="center">
 
 <img
+width="100%"
 src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,45:FF4500,75:FF8C00,100:FFD166&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
