@@ -27,7 +27,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/aakashnath2003">
-<img src="https://img.shields.io/badge/LinkedIn-E65100?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/aakashnath">
@@ -58,41 +58,25 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,50:FF4500,100:FFB703&height=130&section=header&text=About%20Me&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
-</div>
-
-<div align="center">
-
-🎓 B.Tech Information Technology graduate from GCELT, Kolkata
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,50:FF4500,100:FFB703&height=105&section=header&text=About%20Me&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 
 <br>
 
+🎓 B.Tech Information Technology Graduate | GCELT, Kolkata
+<br>
 📊 Building my career in Data Analytics, Python and Generative AI
-
 <br>
-
 🐍 Working with Python, Pandas and NumPy for data analysis
-
 <br>
-
 📈 Working with Excel, Power BI, DAX and SQL for analytics and visualization
-
 <br>
-
 🤖 Exploring Generative AI, LLM applications, Google Gemini and OpenAI
-
 <br>
-
-🔗 Learning AI Agents and LLM application development
-
+🔗 Learning AI Agents and practical LLM application development
 <br>
-
 ⚙️ Hands-on experience with Streamlit and FastAPI
-
 <br>
-
-🚀 Building practical projects to become industry-ready
+🚀 Learning by building practical projects and solving real-world problems
 
 </div>
 
@@ -100,7 +84,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB703,50:FF6B35,100:8B0000&height=70&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB703,50:FF6B35,100:8B0000&height=60&section=footer"/>
 
 </div>
 
@@ -115,17 +99,17 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Data%20Analytics-Building-FF6B35?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-BUILDING-FF6B35?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Advanced%20SQL-Learning-FF8C00?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Advanced%20SQL-LEARNING-FF8C00?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Power%20BI%20%26%20DAX-Learning-F2B705?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20BI%20%26%20DAX-LEARNING-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Python-Developing-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-DEVELOPING-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Generative%20AI-Exploring-FF4500?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-EXPLORING-FF4500?style=for-the-badge&logo=google&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/AI%20Agents-Exploring-8B0000?style=for-the-badge&logo=robot&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-EXPLORING-8B0000?style=for-the-badge&logo=robot&logoColor=white"/>
 
 </div>
 
@@ -162,6 +146,7 @@
 
 </td>
 
+
 <td align="center" width="33%">
 
 <h3>🤖 GENERATIVE AI</h3>
@@ -180,9 +165,10 @@
 
 </td>
 
+
 <td align="center" width="33%">
 
-<h3>⚙️ APPLICATIONS</h3>
+<h3>⚙️ APPLICATION DEVELOPMENT</h3>
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
@@ -193,6 +179,7 @@
 </td>
 
 </tr>
+
 
 <tr>
 
@@ -208,6 +195,7 @@
 
 </td>
 
+
 <td align="center">
 
 <h3>🗄️ DATABASE</h3>
@@ -218,9 +206,10 @@
 
 </td>
 
+
 <td align="center">
 
-<h3>🔧 TOOLS</h3>
+<h3>🔧 TOOLS & PLATFORMS</h3>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
@@ -261,11 +250,12 @@
 
 </tr>
 
+
 <tr>
 
 <td width="50%" align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=aakashnath&show_icons=true&hide_border=true&include_all_commits=true&title_color=FF6B35&icon_color=FFB703&text_color=FFFFFF&bg_color=0D1117"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=aakashnath&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&title_color=FF6B35&icon_color=FFB703&text_color=FFFFFF&bg_color=0D1117"/>
 
 </td>
 
@@ -278,6 +268,7 @@
 </tr>
 
 </table>
+
 
 <p align="center">
 
@@ -299,78 +290,118 @@
 <tr>
 
 <th>Project</th>
-<th>Technology</th>
 <th>Description</th>
+<th>Link</th>
 
 </tr>
+
 
 <tr>
 
 <td><b>📺 Netflix Content Analysis</b></td>
 
-<td>Power BI • Excel</td>
+<td>
+Interactive Power BI dashboard analysing Netflix movies and TV shows,
+including genres, countries, ratings and content trends.
+</td>
 
-<td>Interactive dashboard analysing Netflix movies and TV shows, including genres, countries, ratings and release trends.</td>
+<td align="center">
 
-</tr>
+<a href="https://github.com/aakashnath/netflix-content-analysis-power-bi">
 
-<tr>
+<img src="https://img.shields.io/badge/VIEW-E50914?style=for-the-badge&logo=github&logoColor=white"/>
 
-<td><b>🚗 Road Accident Analysis</b></td>
+</a>
 
-<td>Power BI • Excel</td>
-
-<td>Data visualization project analysing accident patterns, trends and key insights through interactive dashboards.</td>
-
-</tr>
-
-<tr>
-
-<td><b>📱 Mobile Shop Dashboard</b></td>
-
-<td>Python • Streamlit • AI</td>
-
-<td>Interactive mobile shop management application with product management, CRUD operations and dashboard-based interaction.</td>
+</td>
 
 </tr>
+
 
 <tr>
 
 <td><b>🧮 Student Calculator</b></td>
 
-<td>HTML • CSS • JavaScript</td>
+<td>
+Responsive calculator built with HTML, CSS and JavaScript,
+featuring DOM manipulation, event handling and keyboard controls.
+</td>
 
-<td>Responsive calculator demonstrating DOM manipulation, event handling, keyboard controls and error handling.</td>
+<td align="center">
+
+<a href="https://github.com/aakashnath?tab=repositories">
+
+<img src="https://img.shields.io/badge/VIEW-FF8C00?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</td>
 
 </tr>
+
 
 <tr>
 
 <td><b>💰 Expense Tracker</b></td>
 
-<td>Python • Flask • HTML • CSS • JavaScript</td>
+<td>
+Web-based expense tracking application built with Python Flask,
+HTML, CSS and JavaScript for managing personal expenses.
+</td>
 
-<td>Web-based expense tracking application built with Flask and database integration for managing personal expenses.</td>
+<td align="center">
+
+<a href="https://github.com/aakashnath/expense-tracker">
+
+<img src="https://img.shields.io/badge/VIEW-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</td>
 
 </tr>
+
+
+<tr>
+
+<td><b>📱 Mobile Shop Dashboard</b></td>
+
+<td>
+Interactive mobile shop management application built with Python
+and Streamlit, featuring product management and CRUD operations.
+</td>
+
+<td align="center">
+
+<a href="https://github.com/aakashnath?tab=repositories">
+
+<img src="https://img.shields.io/badge/VIEW-00A86B?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</td>
+
+</tr>
+
 
 <tr>
 
 <td><b>🤖 Generative AI Projects</b></td>
 
-<td>Python • Gemini • OpenAI</td>
+<td>
+Practical experiments and applications using Python, Gemini,
+OpenAI and LLM technologies.
+</td>
 
-<td>Exploring LLM-powered applications, AI assistants and practical Generative AI solutions.</td>
+<td align="center">
 
-</tr>
+<a href="https://github.com/aakashnath?tab=repositories">
 
-<tr>
+<img src="https://img.shields.io/badge/VIEW-8B0000?style=for-the-badge&logo=github&logoColor=white"/>
 
-<td><b>🛒 EchoCart</b></td>
+</a>
 
-<td>HTML • CSS • JavaScript • Voice AI</td>
-
-<td>Voice-first grocery shopping website designed with accessibility in mind, especially for visually impaired users.</td>
+</td>
 
 </tr>
 
@@ -389,26 +420,19 @@
 
 <picture>
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aakashnath/aakashnath/output/github-contribution-grid-snake-dark.svg">
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/aakashnath/aakashnath/output/github-contribution-grid-snake-dark.svg">
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aakashnath/aakashnath/output/github-contribution-grid-snake.svg">
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/aakashnath/aakashnath/output/github-contribution-grid-snake.svg">
 
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/aakashnath/aakashnath/output/github-contribution-grid-snake.svg">
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/aakashnath/aakashnath/output/github-contribution-grid-snake.svg">
 
 </picture>
-
-</p>
-
-
-<!-- ========================================================= -->
-<!--                 CONTRIBUTION ACTIVITY                      -->
-<!-- ========================================================= -->
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashnath&bg_color=0D1117&color=FFB703&line=FF6B35&point=FFD166&area=true&hide_border=true" alt="Contribution Activity Graph"/>
 
 </p>
 
@@ -425,7 +449,7 @@
 
 <a href="https://www.linkedin.com/in/aakashnath2003">
 
-<img src="https://img.shields.io/badge/LinkedIn-E65100?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
 
@@ -446,9 +470,9 @@
 <div align="center">
 
 💼 Open to Data Analyst, Python and AI-focused opportunities.
-
+<br>
 📊 Interested in Data Analytics, Business Intelligence and practical AI applications.
-
+<br>
 🤝 Open to collaborating on interesting data and technology projects.
 
 </div>
@@ -466,27 +490,39 @@
 
 <img src="https://img.shields.io/badge/Advanced%20SQL-FF8C00?style=for-the-badge&logo=mysql&logoColor=white"/>
 
+<br>
 ⬇️
+<br>
 
 <img src="https://img.shields.io/badge/Python%20%2B%20Pandas-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
+<br>
 ⬇️
+<br>
 
 <img src="https://img.shields.io/badge/Power%20BI%20%2B%20DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
+<br>
 ⬇️
+<br>
 
 <img src="https://img.shields.io/badge/Statistics-FF6B35?style=for-the-badge"/>
 
+<br>
 ⬇️
+<br>
 
 <img src="https://img.shields.io/badge/Generative%20AI-FF4500?style=for-the-badge"/>
 
+<br>
 ⬇️
+<br>
 
 <img src="https://img.shields.io/badge/LLM%20Applications-8B0000?style=for-the-badge"/>
 
+<br>
 ⬇️
+<br>
 
 <img src="https://img.shields.io/badge/AI%20Agents-7F0000?style=for-the-badge"/>
 
@@ -494,13 +530,14 @@
 
 
 <!-- ========================================================= -->
-<!--                     FOOTER                                 -->
+<!--                     FINAL FOOTER                           -->
 <!-- ========================================================= -->
 
 <br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,45:FF4500,75:FF8C00,100:FFD166&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,45:FF4500,75:FF8C00,100:FFD166&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
